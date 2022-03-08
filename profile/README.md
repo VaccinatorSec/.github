@@ -6,5 +6,6 @@ Our primary resource is our custom malware analysis platform, which can be found
 Useful links: <br>
 \- Website: [vaccinator.dev](https://vaccinator.dev) <br>
 \- GitHub: [TheVaccinator](https://github.com/TheVaccinator) <br>
+\- Patreon: [Vaccinator](https://patreon.com/Vaccinator) <br>
+\- Twitter: [VaccinatorDev](https://twitter.com/VaccinatorDev) <br>
 \- VirusTotal: [Vaccinator](https://virustotal.com/gui/user/Vaccinator) <br>
-\- Twitter: [VaccinatorDev](https://twitter.com/VaccinatorDev)
