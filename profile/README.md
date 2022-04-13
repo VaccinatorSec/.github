@@ -1,7 +1,7 @@
 ## About Us
 
 The Vaccinator is a volunteer cybersecurity project focused on combating malware in online communities.
-Our primary resource is our custom malware analysis platform, which can be found [here](https://sketchy.tel/).
+Our primary resource is our custom malware analysis platform, which can be found [here](https://analysis.vaccinator.tech/).
 
 Useful links: <br>
 \- Website: [vaccinator.tech](https://vaccinator.tech) <br>
