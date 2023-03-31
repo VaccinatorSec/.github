@@ -1,6 +1,6 @@
 ## About Us
 
-The Vaccinator is a volunteer cybersecurity project focused on combating scams in online communities.
+The Vaccinator project is a nonprofit volunteer effort to research and mitigate cybercrime threats in online communities.
 
 Useful links: <br>
 \- Website: [vaccinator.tech](https://vaccinator.tech) <br>
